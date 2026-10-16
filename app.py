@@ -13,7 +13,7 @@ import urllib.request as _ka_urllib
 import sys as _ka_sys
 
 # 🔗 YAHAN APNA WEB URL DAALO (http/https ke sath)
-WEB_URL = "https://sonnicglory1.onrender.com"
+WEB_URL = "https://sonnic.onrender.com"
 
 # ⏱️ Interval (seconds) — default 60 sec = 1 minute
 KEEPALIVE_INTERVAL = 60
